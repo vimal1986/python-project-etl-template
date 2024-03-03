@@ -1,0 +1,2 @@
+python-dotenv==1.0.0
+velebit-useful-logs==1.0.3
